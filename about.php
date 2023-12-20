@@ -32,7 +32,7 @@
         <div class=" home_about_container">
             <div class=" home_about_row d-flex align-items-center row59">
                 <div class="col-lg-6 col-md-12 home_about_content">
-                    <img src="./image/obtachman.png" alt="" class="img2">
+                    <img src="./image/aboutusnewimg.png" alt="" class="img2">
                 </div>
                 <div class="col-lg-5 col-md-12 home_about_content cont2 d-flex flex-column ">
                     <div class="row home_about_content_row text-start">
@@ -49,7 +49,7 @@
                                 and an unwavering focus on client satisfaction, Obtech Enterprise stands as your trusted
                                 partner in the pursuit of operational excellence and sustainable growth.</p>
 
-                            <a href="contact.php"><button>
+                            <!-- <a href="contact.php"><button>
                                     <span class="aboutText">Contact Us</span><svg xmlns="http://www.w3.org/2000/svg"
                                         width="16" height="16" viewBox="0 0 16 16" fill="none">
                                         <path d="M8 16L6.575 14.6L12.175 9H0V7H12.175L6.575 1.4L8 0L16 8L8 16Z"
@@ -64,7 +64,7 @@
                                         </svg>
                                     </span>
                                 </button>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>
