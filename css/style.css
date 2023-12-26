@@ -466,6 +466,7 @@ line-height: 30px;
 }
 .industries-text:hover{
   background-color: #020626 !important;
+  /* ast  */
 }
 .industries-text:hover img{
   display: none;
