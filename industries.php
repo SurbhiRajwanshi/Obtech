@@ -82,40 +82,46 @@ that meet their specific needs.</p>
                 </div>
             </div>
             <div class="row justify-content-center row22">
-                <div class="col-lg-4 text-center Industries_col">
+                <div class="col-lg-4 text-center Industries_col industries-text">
                     <img src="./image/indencity.png" alt="" class="img1">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, reiciendis voluptates dicta modi in minima. Nesciunt, officiis. Eveniet obcaecati, ex accusamus, voluptates exercitationem quo autem illum aspernatur nostrum neque id.</p>
                     <div class="know text-center">
                         <h2>Education</h2>
                     </div>
                 </div>
-                <div class="col-lg-4 text-center Industries_col">
+                <div class="col-lg-4 text-center Industries_col industries-text">
                     <img src="./image/indencity2.png" alt="" class="img1">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolorem sed porro aliquid vitae repudiandae architecto, distinctio amet ipsam! Blanditiis, molestias! Fuga fugiat iste debitis doloremque eligendi tempora blanditiis, quidem delectus ipsam ea quibusdam esse!</p>
                     <div class="know text-center">
                         <h2>Healthcare</h2>
                     </div>
                 </div>
-                <div class="col-lg-4 text-center Industries_col">
+                <div class="col-lg-4 text-center Industries_col industries-text">
                     <img src="./image/indencity3.png" alt="" class="img1">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolorem sed porro aliquid vitae repudiandae architecto, distinctio amet ipsam! Blanditiis, molestias! Fuga fugiat iste debitis doloremque eligendi tempora blanditiis, quidem delectus ipsam ea quibusdam esse!</p>
                     <div class="know text-center">
                         <h2>Retail</h2>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center setmargin">
-                <div class="col-lg-4 text-center Industries_col">
+                <div class="col-lg-4 text-center Industries_col industries-text">
                     <img src="./image/indencity4.png" alt="" class="img1">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolorem sed porro aliquid vitae repudiandae architecto, distinctio amet ipsam! Blanditiis, molestias! Fuga fugiat iste debitis doloremque eligendi tempora blanditiis, quidem delectus ipsam ea quibusdam esse!</p>
                     <div class="know text-center">
                         <h2>Hospitality</h2>
                     </div>
                 </div>
-                <div class="col-lg-4 text-center Industries_col">
+                <div class="col-lg-4 text-center Industries_col industries-text">
                     <img src="./image/indencity5.png" alt="" class="img1">
+                    <p>Lorem  ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolorem sed porro aliquid vitae repudiandae architecto, distinctio amet ipsam! Blanditiis, molestias! Fuga fugiat iste debitis doloremque eligendi tempora blanditiis, quidem delectus ipsam ea quibusdam esse!</p>
                     <div class="know text-center">
                         <h2>Fashion</h2>
                     </div>
                 </div>
-                <div class="col-lg-4 text-center Industries_col">
+                <div class="col-lg-4 text-center Industries_col industries-text">
                     <img src="./image/indencity6.png" alt="" class="img1">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolorem sed porro aliquid vitae repudiandae architecto, distinctio amet ipsam! Blanditiis, molestias! Fuga fugiat iste debitis doloremque eligendi tempora blanditiis, quidem delectus ipsam ea quibusdam esse!</p>
                     <div class="know text-center">
                         <h2>Manufacturing</h2>
                     </div>

@@ -459,6 +459,26 @@ line-height: 30px;
   margin-top: 30px;
 }
 
+.industries-text p{
+  display: none;
+  color: white !important;
+  font-size: 18px !important;
+}
+.industries-text:hover{
+  background-color: #020626 !important;
+  /* ast  */
+}
+.industries-text:hover img{
+  display: none;
+}
+.industries-text:hover .text-center{
+  display: none;
+}
+.industries-text:hover p{
+  display: inherit;
+  padding-top: 30px;
+}
+
 #groupsection {
   padding: 60px 0px 60px 60px;
 }
@@ -1256,6 +1276,24 @@ line-height: 30px;
 #Enterprise {
   padding: 60px;
   background-color: #F3FBFE;
+}
+
+.hover-text p{
+  display: none;
+  color: white;
+  /* font-size: 18px; */
+}
+.hover-text:hover{
+  background-color: #050826 !important;
+}
+.hover-text:hover svg{
+  display: none;
+}
+.hover-text:hover span{
+  display: none;
+}
+.hover-text:hover p{
+  display: inherit !important;
 }
 
 #Enterprise .cool966 span {
