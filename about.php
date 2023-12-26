@@ -178,7 +178,6 @@
                         </div>
                     </div>
                 </div>
-                <button>hi</button>
                 <div class="col-lg-4 col-md-4 ">
                     <div class="Commitmentnew1_col">
                         <img src="./image/newcon9.png" alt="" class="img199">
@@ -464,7 +463,7 @@
                 </div>
             </div>
             <div class="row justify-content-center text-center row66">
-                <div class="col-lg-3 cool966">
+                <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
                         <g clip-path="url(#clip0_131_487)">
                             <path
@@ -515,8 +514,9 @@
                         </defs>
                     </svg>
                     <span>Artificial Intelligence</span>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
                 </div>
-                <div class="col-lg-3 cool966">
+                <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
                         <g clip-path="url(#clip0_131_504)">
                             <path
@@ -543,8 +543,9 @@
                         </defs>
                     </svg>
                     <span>Internet of Things</span>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
                 </div>
-                <div class="col-lg-3 cool966">
+                <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
                         <g clip-path="url(#clip0_131_515)">
                             <path
@@ -559,10 +560,11 @@
                         </defs>
                     </svg>
                     <span>Blockchain</span>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
                 </div>
             </div>
             <div class="row justify-content-center text-center row66">
-                <div class="col-lg-3 cool966">
+                <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
                         <g clip-path="url(#clip0_131_523)">
                             <path
@@ -604,8 +606,9 @@
                         </defs>
                     </svg>
                     <span>Cloud Computing</span>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
                 </div>
-                <div class="col-lg-3 cool966">
+                <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
                         <g clip-path="url(#clip0_131_538)">
                             <path
@@ -632,8 +635,9 @@
                         </defs>
                     </svg>
                     <span>Augmented Reality</span>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
                 </div>
-                <div class="col-lg-3 cool966">
+                <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
                         <g clip-path="url(#clip0_131_547)">
                             <path
@@ -657,6 +661,7 @@
                         </defs>
                     </svg>
                     <span>Big Data</span>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
                 </div>
             </div>
 
