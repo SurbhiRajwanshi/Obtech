@@ -514,7 +514,7 @@
                         </defs>
                     </svg>
                     <span>Artificial Intelligence</span>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
+                    <p>Transform operations with intelligent solutions tailored for peak efficiency.</p>
                 </div>
                 <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
@@ -543,7 +543,7 @@
                         </defs>
                     </svg>
                     <span>Internet of Things</span>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
+                    <p>Connect and control devices for a smarter, more efficient business ecosystem.</p>
                 </div>
                 <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
@@ -560,7 +560,7 @@
                         </defs>
                     </svg>
                     <span>Blockchain</span>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
+                    <p>Secure your transactions with our cutting-edge blockchain technology expertise.</p>
                 </div>
             </div>
             <div class="row justify-content-center text-center row66">
@@ -606,7 +606,7 @@
                         </defs>
                     </svg>
                     <span>Cloud Computing</span>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
+                    <p>Elevate your business scalability through seamless and secure cloud solutions.</p>
                 </div>
                 <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
@@ -635,7 +635,7 @@
                         </defs>
                     </svg>
                     <span>Augmented Reality</span>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
+                    <p>Immerse your audience in captivating experiences with advanced augmented reality.</p>
                 </div>
                 <div class="col-lg-3 cool966 hover-text">
                     <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
@@ -661,7 +661,7 @@
                         </defs>
                     </svg>
                     <span>Big Data</span>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, asperiores.</p>
+                    <p>Uncover valuable insights with our sophisticated big data analytics solutions.</p>
                 </div>
             </div>
 

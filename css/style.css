@@ -476,7 +476,8 @@ line-height: 30px;
 }
 .industries-text:hover p{
   display: inherit;
-  padding-top: 30px;
+  padding: 10px;
+  padding-top: 60px;
 }
 
 #groupsection {
