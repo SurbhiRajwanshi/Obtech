@@ -1,7 +1,39 @@
+@font-face {
+    font-family: Gilroy-Medium;
+    src: local("Gilroy"), url("../Gilroy/Gilroy-Medium.ttf") format("truetype");
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800;900&family=League+Spartan:wght@400;500;600&display=swap');
+
+  @font-face {
+    font-family: Gilroy-Regular;
+    src: local("Gilroy"), url("../Gilroy/Gilroy-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: Gilroy-bold;
+    src: local("Gilroy"), url("../Gilroy/Gilroy-Bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: Gilroy-SemiBold;
+    src: local("Gilroy"), url("../Gilroy/Gilroy-SemiBold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: Spartan;
+    src: local("spartan"), url("../spartan/Spartan-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: SpartanBold;
+    src: local("spartan"), url("../spartan/Spartan-Bold.ttf") format("truetype");
+  }
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'League Spartan', sans-serif;
 }
 body{
     overflow-x: hidden;
@@ -316,11 +348,15 @@ body{
     color: #fff;
     padding-top: 20px;
 }
+.extramain{
+    height: 453px !important;
+}
+
  .blog1-heading p{
     width:17em;
     color: #fff;
     font-size: 16px;
-    padding-top:20px;
+    padding-top:20px !important;
 }
 
 /* -------------blog1-third-section------------ */
@@ -379,7 +415,7 @@ body{
     padding-left: 6px;
 }
 .card-btn button{
-    background-color:#050826;
+    background-color:#050826 !important;
     color: white;
     width: 150px;
 }

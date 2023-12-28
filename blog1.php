@@ -5,13 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog page</title>
 
-    <link rel="stylesheet" href="./css/blog.css">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-     integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
     
+    <link rel="stylesheet" href="./css/responisve.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />    
+        <link rel="stylesheet" href="./css/blog.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Spartan' rel='stylesheet'>
 </head>
 <body>
+   <?php 
+      include 'common/header.php';
+    ?>
     <!-- ------------------------first-section----------------------- -->
     <div class="blog1-first-section">
         <div class="container">
@@ -94,8 +104,7 @@
                         <h5>Exploring the potential of AI-powered virtual assistants in digital intelligence in the education sector.</h5>
                         <p>In today's digital age, the education sector is continuously seeking innovative solutions to enhance.</p>
                         <div class="btn card-btn">
-                            <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button>
-                        </div>
+                        <a href="contact.php"> <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button></a>                        </div>
                     </div>
                     <div class="main-card">
                         <!-- <img src="./image/blog1cardimage2.png"> -->
@@ -104,8 +113,7 @@
                         <h5>Exploring the potential of AI-powered virtual assistants in digital intelligence in the education sector.</h5>
                         <p>In today's digital age, the education sector is continuously seeking innovative solutions to enhance.</p>
                         <div class="btn card-btn">
-                            <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button>
-                        </div>
+                        <a href="contact.php"> <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button></a>                        </div>
                     </div>
                     <div class="main-card">
                         <!-- <img src="./image/blog1cardimage3.png"> -->
@@ -114,8 +122,7 @@
                         <h5>Exploring the potential of AI-powered virtual assistants in digital intelligence in the education sector.</h5>
                         <p>In today's digital age, the education sector is continuously seeking innovative solutions to enhance.</p>
                         <div class="btn card-btn">
-                            <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button>
-                        </div>
+                        <a href="contact.php"> <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button></a>                        </div>
                     </div>
                 </div>
             </div>
@@ -133,11 +140,13 @@
                     <h2>Contact us today to discover how our software solutions can drive your business success</h2>
                 </div>
                 <div class="btn">
-                    <button>Learn More<i class="fa-solid fa-arrow-right"></i></button>
-                </div>
+                <a href="contact.php"> <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button></a>                </div>
             </div>
         </div>
     </div>
     <!-- ------------------------end-fifth-section----------------------- -->
+    <?php 
+      include 'common/footer.php';
+    ?>
 </body>
 </html>

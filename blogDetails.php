@@ -41,13 +41,14 @@
             <div class="second-section-flex">
                 <div class="left-section">
                     <h3>TABLE OF CONTENT </h3>
-                    <p >Introduction to software solutions in
-                        the digital business landscape</p>
-                    <p>Understanding the importance of synergy in business</p>
-                    <p>The benefits of software solutions in driving business success</p>
-                    <p>How software solutions can enhance collaboration and communication</p>
+                  <a href="#add45"> <p >Introduction to software solutions in
+                        the digital business landscape</p></a>
+                        <a href="#add46"> <p>Understanding the importance of synergy in business</p></a>
+                        <a href="#add47"> <p>The benefits of software solutions in driving business success</p></a>
+                        <a href="#add48"> <p>How software solutions can enhance collaboration and communication</p></a>
                 </div>
                 <div class="right-section">
+                    <div id="add45">
                     <h3>Introduction to software solutions in the digital business landscape</h3>
                     <p>In today's rapidly evolving digital business landscape, software solutions have become essential
                         tools for driving success. With the increasing reliance on technology, businesses need to adapt
@@ -55,7 +56,10 @@
                         applications, from enterprise resource planning (ERP) systems to customer relationship management
                         (CRM) tools. By integrating these software solutions into their operations, businesses can streamline
                         processes, enhance collaboration, and make informed decisions based on data analytics.</p>
+                        </div>
+                        <div id="add46">
                     <h3>Understanding the importance of synergy in business</h3>
+                    
                     <p>Synergy is the key to unlocking the full potential of software solutions in the digital business landscape.
                         It refers to the harmonious integration of different elements, such as people, processes, and technologies,
                         to create a more efficient and productive environment. When software solutions are implemented strategically,
@@ -64,12 +68,16 @@
                     <div class="right-section-image">
                         <img src="./image/blogimage-1.png">
                     </div>
+</div>
+<div id="add47">
                     <h3>The benefits of software solutions in driving business success</h3>
                     <p>Software solutions offer numerous benefits that can significantly impact a business's success. Firstly, they streamline operations by
                         automating repetitive tasks and eliminating manual errors. This efficiency not only saves time but also reduces costs and increases overall
                         productivity. Additionally, software solutions provide real-time visibility into key business metrics, allowing stakeholders to make
                         informed decisions based on accurate and up-to-date information. This data-driven approach enables businesses to identify trends, spot opportunities, and mitigate risks effectively.</p>
-                    <h3>How software solutions can enhance collaboration and communication</h3>
+</div>
+<div id="add48">
+                        <h3>How software solutions can enhance collaboration and communication</h3>
                     <p>One of the primary advantages of software solutions is their ability to enhance collaboration and communication within an
                         organization. Through integrated platforms and tools, employees can easily share information, documents, and updates, regardless
                         of their physical location. This level of connectivity promotes teamwork, knowledge sharing, and innovation. Furthermore,
@@ -79,6 +87,7 @@
                     <div class="right-section-image">
                         <img src="./image/blogimage-2.png">
                     </div>
+</div>
                     <ul>
                         <li><h3>Streamlining operations and increasing efficiency with software solutions</h3></li>
                     </ul>
@@ -144,8 +153,7 @@
                     <h2>Contact us today to discover how our software solutions can drive your business success</h2>
                 </div>
                 <div class="btn">
-                    <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button>
-                </div>
+                <a href="contact.php"> <button>Contact Us <i class="fa-solid fa-arrow-right"></i></button></a>                </div>
             </div>
         </div>
     </div>
